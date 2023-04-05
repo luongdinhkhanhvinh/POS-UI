@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-poppins: 'Playfair Display', serif;
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --font-size-3xs: 0.63rem;
+  --font-size-xs: 0.75rem;
+  --font-size-smi-5: 0.78rem;
+  --font-size-sm: 0.88rem;
+  --font-size-mini: 0.94rem;
+  --font-size-2xs: 0.69rem;
+  --font-size-base: 1rem;
+
+  /* Colors */
+  --color-gray-100: #fffefe;
+  --color-gray-200: rgba(0, 0, 0, 0.46);
+  --color-gray-300: rgba(0, 0, 0, 0.63);
+  --color-gray-400: rgba(0, 0, 0, 0.2);
+  --color-gray-500: rgba(0, 0, 0, 0.8);
+  --color-gray-600: rgba(0, 0, 0, 0.36);
+  --color-gray-700: rgba(0, 0, 0, 0.6);
+  --color-gray-800: rgba(0, 0, 0, 0.5);
+  --color-whitesmoke: #f7f7f7;
+  --color-black: #000;
+  --color-crimson-100: #e1045f;
+  --color-crimson-200: rgba(225, 4, 95, 0.6);
+  --color-pink: #fcccd9;
+  --color-deeppink-100: #ef1a69;
+  --color-deeppink-200: rgba(239, 26, 105, 0.44);
+  --color-white: #fff;
+
+  /* Paddings */
+  --padding-7xs: 0.38rem;
+  --padding-lg: 1.13rem;
+
+  /* border radiuses */
+  --br-lg: 18px;
+  --br-5xs: 8px;
+  --br-11xs: 2px;
+  --br-8xs: 5px;
+  --br-3xs: 10px;
+}
